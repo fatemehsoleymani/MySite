@@ -6,8 +6,7 @@ This repository contains the source code for a blog application built with Djang
 
 1. [Project Overview](#project-overview)
 2. [Features](#features)
-3. [Setup Instructions](#setup-instructions)
-4. [Technologies Used](#technologies-used)
+3. [Technologies Used](#technologies-used)
 
 ## Project Overview
 
